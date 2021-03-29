@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## GitHub Sahifamga xush kelibsiz
 
 You can use the [editor on GitHub](https://github.com/UzSenor/Python-dars/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
