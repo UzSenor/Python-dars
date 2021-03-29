@@ -1,1 +1,1 @@
-# dastur
+# GitHUB da o'rganish uchun ochilgan bo'lim
