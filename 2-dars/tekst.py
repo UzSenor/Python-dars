@@ -1,0 +1,1 @@
+print('Salom hammaga. Ishlar nichik. Sog\'liging nichik')
